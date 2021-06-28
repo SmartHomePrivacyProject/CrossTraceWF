@@ -1,4 +1,4 @@
-# HiddenText
+# Cross-trace Website Fingerprinting
 
 ⚠️ This code and data is for research purposes only.⚠️
 
