@@ -1,8 +1,9 @@
 # Cross-trace Website Fingerprinting
 
-⚠️ This code and data is for research purposes only.⚠️
+The dataset and code are for research purposes only. The results of this study are published in the following poster:
 
-This repository contains source code and data for reproducing our results from HiddenText: Cross-Trace Website Fingerprinting Over Encrypted Traffic. 
+Jimmy Dani and Boyang Wang, "HiddenText: Cross-Trace Website Fingerprinting Over Encrypted Traffic," IEEE 22nd International Conference on Information Reuse and Integration for Data Science (IRI'21), August, 2021. 
+
 
 ### Code
 The <code>src</code> directory comprises sub-directories, each of which is labeled as a performance evaluation part of the paper depending on experiment name. At the beginning of each script the instructions to execute the script are included.
