@@ -1,6 +1,6 @@
 # Cross-trace Website Fingerprinting
 
-The dataset and code are for research purposes only. The results of this study are published in the following poster:
+The dataset and code are for research purposes only. The results of this study are published in the following paper:
 
 Jimmy Dani and Boyang Wang, "HiddenText: Cross-Trace Website Fingerprinting Over Encrypted Traffic," IEEE 22nd International Conference on Information Reuse and Integration for Data Science (IRI'21), August, 2021. 
 
